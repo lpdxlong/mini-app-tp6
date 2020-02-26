@@ -17,7 +17,7 @@
         }
     },
     "require": {
-        "lpdxlong/ooyyee-common-lang-tp6": "^1.0",
-        "topthink/framework": "^6.0"
+        "topthink/framework": "^6.0",
+        "lpdxlong/ooyyee-common-lang-tp6": "dev-master"
     }
 }
